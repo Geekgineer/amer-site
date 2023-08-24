@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to devlopr-jekyll !"
+title:  "Welcome to test !"
 summary: "Getting Started using devlopr-jekyll"
 author: qwdwq
 date: '2019-05-22 14:35:23 +0530'
